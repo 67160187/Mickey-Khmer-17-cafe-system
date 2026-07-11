@@ -1,6 +1,5 @@
 # wk01-team-charter.md
 
-## ทีม: ทีมของระบบร้านกาแฟ
 
 ## โครงงาน: ระบบจัดการร้านกาแฟ (Cafe Ordering System)
 
